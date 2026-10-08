@@ -1,0 +1,41 @@
+{
+  "accounts": [
+    {
+      "id": "1",
+      "customerName": "Rahul Sharma",
+      "email": "rahul@gmail.com",
+      "contact": "9876543210",
+      "accountType": "Savings Account",
+      "initialDeposit": "10000",
+      "address": "Kothrud",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411038"
+    },
+    {
+      "id": "2",
+      "customerName": "Priya Patil",
+      "email": "priya@gmail.com",
+      "contact": "9123456789",
+      "accountType": "Current Account",
+      "initialDeposit": "25000",
+      "address": "Viman Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411014"
+    },
+    {
+      "customerName": "pratiksha",
+      "email": "pratiksha@gmail.com",
+      "contact": "8234455641",
+      "accountType": "Savings Account",
+      "initialDeposit": "50",
+      "address": "pune",
+      "city": "pune",
+      "state": "MAHARASHTRA",
+      "pincode": "431001",
+      "id": "IIfiNt1arqw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
